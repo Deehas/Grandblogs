@@ -1,4 +1,4 @@
-# demmys-blog
+# Grandblogs
 
 ## Project setup
 ```
